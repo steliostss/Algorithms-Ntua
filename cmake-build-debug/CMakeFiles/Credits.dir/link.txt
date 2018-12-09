@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Credits.dir/Programmatistikes/ask2/Credits/credits.cpp.o  -o Credits 

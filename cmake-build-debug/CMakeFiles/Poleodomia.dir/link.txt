@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Poleodomia.dir/Programmatistikes/ask1/Poleodomia/poleodomia.cpp.o  -o Poleodomia 

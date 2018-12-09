@@ -1,0 +1,9 @@
+/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Credits.dir
+/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Poleodomia_Faster.dir
+/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Poleodomia.dir
+/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Particles_v1.dir
+/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Creosote_v2.dir
+/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Drouk.dir
+/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Creosote.dir

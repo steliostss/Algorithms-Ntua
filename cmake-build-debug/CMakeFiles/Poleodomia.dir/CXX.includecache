@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+numeric
+-
+

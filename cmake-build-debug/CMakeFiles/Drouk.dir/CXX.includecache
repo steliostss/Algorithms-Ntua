@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask1/Particles/droukalis.cpp
+iostream
+-
+tuple
+-
+vector
+-
+

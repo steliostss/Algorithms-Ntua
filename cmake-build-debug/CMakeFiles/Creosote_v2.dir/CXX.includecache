@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask2/Creosote/creosote_v2.cpp
+iostream
+-
+vector
+-
+climits
+-
+

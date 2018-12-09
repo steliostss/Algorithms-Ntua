@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Algorithms_Ntua.dir/Programmatistikes/ask2/Creosote/creosote.cpp.o CMakeFiles/Algorithms_Ntua.dir/Programmatistikes/ask2/Credits/credits.cpp.o  -o Algorithms_Ntua 

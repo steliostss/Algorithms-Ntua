@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Drouk.dir/Programmatistikes/ask1/Particles/droukalis.cpp.o  -o Drouk 

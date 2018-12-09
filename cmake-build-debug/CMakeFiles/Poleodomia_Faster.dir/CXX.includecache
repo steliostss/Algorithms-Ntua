@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+numeric
+-
+stack
+-
+tuple
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Creosote.dir/Programmatistikes/ask2/Creosote/creosote.cpp.o  -o Creosote 
