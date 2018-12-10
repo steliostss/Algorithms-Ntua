@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/markella.dir/Programmatistikes/ask2/Creosote/algos2ex1.cpp.o  -o markella 

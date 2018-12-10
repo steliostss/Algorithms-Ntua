@@ -13,6 +13,7 @@ add_executable(Drouk Programmatistikes/ask1/Particles/droukalis.cpp)
 
 add_executable(Creosote Programmatistikes/ask2/Creosote/creosote.cpp)
 add_executable(Creosote_v2 Programmatistikes/ask2/Creosote/creosote_v2.cpp)
+add_executable(markella Programmatistikes/ask2/Creosote/algos2ex1.cpp)
 
 add_executable(Credits Programmatistikes/ask2/Credits/credits.cpp)
 

@@ -124,6 +124,19 @@ Credits/fast:
 .PHONY : Credits/fast
 
 #=============================================================================
+# Target rules for targets named markella
+
+# Build rule for target.
+markella: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 markella
+.PHONY : markella
+
+# fast build rule for target.
+markella/fast:
+	$(MAKE) -f CMakeFiles/markella.dir/build.make CMakeFiles/markella.dir/build
+.PHONY : markella/fast
+
+#=============================================================================
 # Target rules for targets named Poleodomia_Faster
 
 # Build rule for target.
@@ -336,6 +349,33 @@ Programmatistikes/ask2/Credits/credits.cpp.s:
 	$(MAKE) -f CMakeFiles/Credits.dir/build.make CMakeFiles/Credits.dir/Programmatistikes/ask2/Credits/credits.cpp.s
 .PHONY : Programmatistikes/ask2/Credits/credits.cpp.s
 
+Programmatistikes/ask2/Creosote/algos2ex1.o: Programmatistikes/ask2/Creosote/algos2ex1.cpp.o
+
+.PHONY : Programmatistikes/ask2/Creosote/algos2ex1.o
+
+# target to build an object file
+Programmatistikes/ask2/Creosote/algos2ex1.cpp.o:
+	$(MAKE) -f CMakeFiles/markella.dir/build.make CMakeFiles/markella.dir/Programmatistikes/ask2/Creosote/algos2ex1.cpp.o
+.PHONY : Programmatistikes/ask2/Creosote/algos2ex1.cpp.o
+
+Programmatistikes/ask2/Creosote/algos2ex1.i: Programmatistikes/ask2/Creosote/algos2ex1.cpp.i
+
+.PHONY : Programmatistikes/ask2/Creosote/algos2ex1.i
+
+# target to preprocess a source file
+Programmatistikes/ask2/Creosote/algos2ex1.cpp.i:
+	$(MAKE) -f CMakeFiles/markella.dir/build.make CMakeFiles/markella.dir/Programmatistikes/ask2/Creosote/algos2ex1.cpp.i
+.PHONY : Programmatistikes/ask2/Creosote/algos2ex1.cpp.i
+
+Programmatistikes/ask2/Creosote/algos2ex1.s: Programmatistikes/ask2/Creosote/algos2ex1.cpp.s
+
+.PHONY : Programmatistikes/ask2/Creosote/algos2ex1.s
+
+# target to generate assembly for a file
+Programmatistikes/ask2/Creosote/algos2ex1.cpp.s:
+	$(MAKE) -f CMakeFiles/markella.dir/build.make CMakeFiles/markella.dir/Programmatistikes/ask2/Creosote/algos2ex1.cpp.s
+.PHONY : Programmatistikes/ask2/Creosote/algos2ex1.cpp.s
+
 Programmatistikes/ask2/Creosote/creosote.o: Programmatistikes/ask2/Creosote/creosote.cpp.o
 
 .PHONY : Programmatistikes/ask2/Creosote/creosote.o
@@ -398,6 +438,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... Credits"
+	@echo "... markella"
 	@echo "... Poleodomia_Faster"
 	@echo "... rebuild_cache"
 	@echo "... Poleodomia"
@@ -420,6 +461,9 @@ help:
 	@echo "... Programmatistikes/ask2/Credits/credits.o"
 	@echo "... Programmatistikes/ask2/Credits/credits.i"
 	@echo "... Programmatistikes/ask2/Credits/credits.s"
+	@echo "... Programmatistikes/ask2/Creosote/algos2ex1.o"
+	@echo "... Programmatistikes/ask2/Creosote/algos2ex1.i"
+	@echo "... Programmatistikes/ask2/Creosote/algos2ex1.s"
 	@echo "... Programmatistikes/ask2/Creosote/creosote.o"
 	@echo "... Programmatistikes/ask2/Creosote/creosote.i"
 	@echo "... Programmatistikes/ask2/Creosote/creosote.s"

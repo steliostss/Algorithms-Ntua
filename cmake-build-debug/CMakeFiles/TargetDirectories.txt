@@ -1,5 +1,6 @@
 /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Credits.dir
+/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/markella.dir
 /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Poleodomia_Faster.dir
 /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Poleodomia.dir

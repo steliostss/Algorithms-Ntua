@@ -102,6 +102,43 @@ clean: CMakeFiles/Credits.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/markella.dir
+
+# All Build rule for target.
+CMakeFiles/markella.dir/all:
+	$(MAKE) -f CMakeFiles/markella.dir/build.make CMakeFiles/markella.dir/depend
+	$(MAKE) -f CMakeFiles/markella.dir/build.make CMakeFiles/markella.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target markella"
+.PHONY : CMakeFiles/markella.dir/all
+
+# Include target in all.
+all: CMakeFiles/markella.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/markella.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/markella.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/markella.dir/rule
+
+# Convenience name for target.
+markella: CMakeFiles/markella.dir/rule
+
+.PHONY : markella
+
+# clean rule for target.
+CMakeFiles/markella.dir/clean:
+	$(MAKE) -f CMakeFiles/markella.dir/build.make CMakeFiles/markella.dir/clean
+.PHONY : CMakeFiles/markella.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/markella.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/Poleodomia_Faster.dir
 
 # All Build rule for target.
