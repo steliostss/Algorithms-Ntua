@@ -1,5 +1,5 @@
 # Algorithms-Ntua
-Git repository for course: "Algorithms and complexity" of NTUA ECE School
+Git repository for course: "Algorithms and complexity" of NTUA ECE School.
 Course is currently in the 7th semester.
 
 Professor: [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/)
