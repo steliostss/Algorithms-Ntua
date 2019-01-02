@@ -50,10 +50,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/56/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/57/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/56/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/57/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -63,6 +63,80 @@ CMAKE_SOURCE_DIR = /home/guru/CLionProjects/Algorithms-Ntua
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug
+
+#=============================================================================
+# Target rules for target CMakeFiles/Robbery.dir
+
+# All Build rule for target.
+CMakeFiles/Robbery.dir/all:
+	$(MAKE) -f CMakeFiles/Robbery.dir/build.make CMakeFiles/Robbery.dir/depend
+	$(MAKE) -f CMakeFiles/Robbery.dir/build.make CMakeFiles/Robbery.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target Robbery"
+.PHONY : CMakeFiles/Robbery.dir/all
+
+# Include target in all.
+all: CMakeFiles/Robbery.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Robbery.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Robbery.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Robbery.dir/rule
+
+# Convenience name for target.
+Robbery: CMakeFiles/Robbery.dir/rule
+
+.PHONY : Robbery
+
+# clean rule for target.
+CMakeFiles/Robbery.dir/clean:
+	$(MAKE) -f CMakeFiles/Robbery.dir/build.make CMakeFiles/Robbery.dir/clean
+.PHONY : CMakeFiles/Robbery.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Robbery.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Submarine.dir
+
+# All Build rule for target.
+CMakeFiles/Submarine.dir/all:
+	$(MAKE) -f CMakeFiles/Submarine.dir/build.make CMakeFiles/Submarine.dir/depend
+	$(MAKE) -f CMakeFiles/Submarine.dir/build.make CMakeFiles/Submarine.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target Submarine"
+.PHONY : CMakeFiles/Submarine.dir/all
+
+# Include target in all.
+all: CMakeFiles/Submarine.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Submarine.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Submarine.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Submarine.dir/rule
+
+# Convenience name for target.
+Submarine: CMakeFiles/Submarine.dir/rule
+
+.PHONY : Submarine
+
+# clean rule for target.
+CMakeFiles/Submarine.dir/clean:
+	$(MAKE) -f CMakeFiles/Submarine.dir/build.make CMakeFiles/Submarine.dir/clean
+.PHONY : CMakeFiles/Submarine.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Submarine.dir/clean
+
+.PHONY : clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/Credits.dir
@@ -108,7 +182,7 @@ clean: CMakeFiles/Credits.dir/clean
 CMakeFiles/markella.dir/all:
 	$(MAKE) -f CMakeFiles/markella.dir/build.make CMakeFiles/markella.dir/depend
 	$(MAKE) -f CMakeFiles/markella.dir/build.make CMakeFiles/markella.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target markella"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target markella"
 .PHONY : CMakeFiles/markella.dir/all
 
 # Include target in all.

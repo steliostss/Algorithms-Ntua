@@ -39,10 +39,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/56/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/57/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/56/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/57/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/snap/clion/56/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/snap/clion/57/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -70,7 +70,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/snap/clion/56/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/snap/clion/57/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -109,6 +109,32 @@ preinstall/fast:
 depend:
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
+
+#=============================================================================
+# Target rules for targets named Robbery
+
+# Build rule for target.
+Robbery: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Robbery
+.PHONY : Robbery
+
+# fast build rule for target.
+Robbery/fast:
+	$(MAKE) -f CMakeFiles/Robbery.dir/build.make CMakeFiles/Robbery.dir/build
+.PHONY : Robbery/fast
+
+#=============================================================================
+# Target rules for targets named Submarine
+
+# Build rule for target.
+Submarine: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Submarine
+.PHONY : Submarine
+
+# fast build rule for target.
+Submarine/fast:
+	$(MAKE) -f CMakeFiles/Submarine.dir/build.make CMakeFiles/Submarine.dir/build
+.PHONY : Submarine/fast
 
 #=============================================================================
 # Target rules for targets named Credits
@@ -430,6 +456,60 @@ Programmatistikes/ask2/Creosote/creosote_v2.cpp.s:
 	$(MAKE) -f CMakeFiles/Creosote_v2.dir/build.make CMakeFiles/Creosote_v2.dir/Programmatistikes/ask2/Creosote/creosote_v2.cpp.s
 .PHONY : Programmatistikes/ask2/Creosote/creosote_v2.cpp.s
 
+Programmatistikes/ask3/robbery/robbery.o: Programmatistikes/ask3/robbery/robbery.cpp.o
+
+.PHONY : Programmatistikes/ask3/robbery/robbery.o
+
+# target to build an object file
+Programmatistikes/ask3/robbery/robbery.cpp.o:
+	$(MAKE) -f CMakeFiles/Robbery.dir/build.make CMakeFiles/Robbery.dir/Programmatistikes/ask3/robbery/robbery.cpp.o
+.PHONY : Programmatistikes/ask3/robbery/robbery.cpp.o
+
+Programmatistikes/ask3/robbery/robbery.i: Programmatistikes/ask3/robbery/robbery.cpp.i
+
+.PHONY : Programmatistikes/ask3/robbery/robbery.i
+
+# target to preprocess a source file
+Programmatistikes/ask3/robbery/robbery.cpp.i:
+	$(MAKE) -f CMakeFiles/Robbery.dir/build.make CMakeFiles/Robbery.dir/Programmatistikes/ask3/robbery/robbery.cpp.i
+.PHONY : Programmatistikes/ask3/robbery/robbery.cpp.i
+
+Programmatistikes/ask3/robbery/robbery.s: Programmatistikes/ask3/robbery/robbery.cpp.s
+
+.PHONY : Programmatistikes/ask3/robbery/robbery.s
+
+# target to generate assembly for a file
+Programmatistikes/ask3/robbery/robbery.cpp.s:
+	$(MAKE) -f CMakeFiles/Robbery.dir/build.make CMakeFiles/Robbery.dir/Programmatistikes/ask3/robbery/robbery.cpp.s
+.PHONY : Programmatistikes/ask3/robbery/robbery.cpp.s
+
+Programmatistikes/ask3/submarine/submarine.o: Programmatistikes/ask3/submarine/submarine.cpp.o
+
+.PHONY : Programmatistikes/ask3/submarine/submarine.o
+
+# target to build an object file
+Programmatistikes/ask3/submarine/submarine.cpp.o:
+	$(MAKE) -f CMakeFiles/Submarine.dir/build.make CMakeFiles/Submarine.dir/Programmatistikes/ask3/submarine/submarine.cpp.o
+.PHONY : Programmatistikes/ask3/submarine/submarine.cpp.o
+
+Programmatistikes/ask3/submarine/submarine.i: Programmatistikes/ask3/submarine/submarine.cpp.i
+
+.PHONY : Programmatistikes/ask3/submarine/submarine.i
+
+# target to preprocess a source file
+Programmatistikes/ask3/submarine/submarine.cpp.i:
+	$(MAKE) -f CMakeFiles/Submarine.dir/build.make CMakeFiles/Submarine.dir/Programmatistikes/ask3/submarine/submarine.cpp.i
+.PHONY : Programmatistikes/ask3/submarine/submarine.cpp.i
+
+Programmatistikes/ask3/submarine/submarine.s: Programmatistikes/ask3/submarine/submarine.cpp.s
+
+.PHONY : Programmatistikes/ask3/submarine/submarine.s
+
+# target to generate assembly for a file
+Programmatistikes/ask3/submarine/submarine.cpp.s:
+	$(MAKE) -f CMakeFiles/Submarine.dir/build.make CMakeFiles/Submarine.dir/Programmatistikes/ask3/submarine/submarine.cpp.s
+.PHONY : Programmatistikes/ask3/submarine/submarine.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -437,6 +517,8 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... edit_cache"
+	@echo "... Robbery"
+	@echo "... Submarine"
 	@echo "... Credits"
 	@echo "... markella"
 	@echo "... Poleodomia_Faster"
@@ -470,6 +552,12 @@ help:
 	@echo "... Programmatistikes/ask2/Creosote/creosote_v2.o"
 	@echo "... Programmatistikes/ask2/Creosote/creosote_v2.i"
 	@echo "... Programmatistikes/ask2/Creosote/creosote_v2.s"
+	@echo "... Programmatistikes/ask3/robbery/robbery.o"
+	@echo "... Programmatistikes/ask3/robbery/robbery.i"
+	@echo "... Programmatistikes/ask3/robbery/robbery.s"
+	@echo "... Programmatistikes/ask3/submarine/submarine.o"
+	@echo "... Programmatistikes/ask3/submarine/submarine.i"
+	@echo "... Programmatistikes/ask3/submarine/submarine.s"
 .PHONY : help
 
 
