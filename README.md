@@ -12,7 +12,7 @@ Professor: [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/)
   - Complexity
   - Correctness
   - Examples
-- [Programmatistikes](https://github.com/steliostss/Algorithms-Ntua/tree/master/Programmatistikes) include lab exercises, written in C++. Each assignments ([ask1](https://github.com/steliostss/Algorithms-Ntua/tree/master/Programmatistikes/ask1), [ask2](https://github.com/steliostss/Algorithms-Ntua/tree/master/Programmatistikes/ask2), [ask3](https://github.com/steliostss/Algorithms-Ntua/tree/master/Programmatistikes/ask3)) includes at least two (2) exercises, thus the sub-folders. Each sub-folder includes input and corresponding output files and the source code.
+- [Programmatistikes](https://github.com/steliostss/Algorithms-Ntua/tree/master/Programmatistikes) include lab exercises, written in C++. Each assignments ([ask1](https://github.com/steliostss/Algorithms-Ntua/tree/master/Programmatistikes/ask1), [ask2](https://github.com/steliostss/Algorithms-Ntua/tree/master/Programmatistikes/ask2), [ask3](https://github.com/steliostss/Algorithms-Ntua/tree/master/Programmatistikes/ask3)) includes at least two (2) exercises, thus the sub-folders. Each sub-folder includes input and corresponding output files and source code.
 
 ### Authors
 ---
