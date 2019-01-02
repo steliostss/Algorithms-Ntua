@@ -6,8 +6,6 @@ Professor: [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/)
 
 ### Structure
 
----
-
 - [Graptes](https://github.com/steliostss/Algorithms-Ntua/tree/master/Graptes) include all theoretical exercises, either explained with text or pseudo code. Each algorithm is defined with at least three (3), at most four (4) points:
   - Description
   - Complexity
@@ -17,12 +15,8 @@ Professor: [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/)
 
 ### Authors
 
----
-
 - [Tsagkarakis Stelios](https://www.facebook.com/stelios.tsagarakis.3) (Owner)
 
 ### License
-
----
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/steliostss/Algorithms-Ntua) file for details.
