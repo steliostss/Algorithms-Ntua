@@ -21,92 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eed4f76a-dd47-4cff-b281-6651358d386e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input26.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input27.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input28.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input29.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input30.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output26.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output27.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output28.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output29.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output30.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Algorithms_Ntua.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithms_Ntua.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Credits.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Credits.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/Programmatistikes/ask2/Creosote/creosote_v2.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/Programmatistikes/ask2/Creosote/creosote_v2.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Drouk.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Drouk.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Particles_v1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Particles_v1.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poleodomia.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poleodomia.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poleodomia_Faster.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poleodomia_Faster.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/markella.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/markella.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/markella.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/markella.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Creosote_v2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Creosote_v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,27 +33,29 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            <state relative-caret-position="324">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
-                <element signature="e#39#58#0" expanded="true" />
-                <element signature="e#841#1031#1" />
-                <element signature="e#1218#1688#0" />
-                <element signature="e#1636#2108#0" />
-                <element signature="e#1979#2332#1" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/include/c++/7/bits/stl_construct.h">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+            <state>
+              <folding>
+                <element signature="e#39#58#0" expanded="true" />
+                <element signature="e#247#695#1" />
+                <element signature="e#841#1031#1" />
+                <element signature="e#1218#1688#0" />
+                <element signature="e#1636#2108#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,6 +73,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -215,20 +135,6 @@
               <item name="Programmatistikes" type="462c0819:PsiDirectoryNode" />
               <item name="ask3" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithms_Ntua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Ntua" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmatistikes" type="462c0819:PsiDirectoryNode" />
-              <item name="ask3" type="462c0819:PsiDirectoryNode" />
-              <item name="robbery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms_Ntua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Ntua" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmatistikes" type="462c0819:PsiDirectoryNode" />
-              <item name="ask3" type="462c0819:PsiDirectoryNode" />
-              <item name="submarine" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -271,7 +177,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Creosote_v2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Creosote_v2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Creosote_v2">
+    <configuration name="Creosote_v2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="input1.txt" WORKING_DIR="file://$PROJECT_DIR$/Programmatistikes/ask2/Creosote/Input" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Creosote_v2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Creosote_v2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -301,7 +207,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Submarine" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="input1.txt" WORKING_DIR="file://$PROJECT_DIR$/Programmatistikes/ask3/robbery/Input" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Submarine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Submarine">
+    <configuration name="Submarine" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="input1.txt" WORKING_DIR="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Submarine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Submarine">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -336,17 +242,47 @@
       <updated>1544364676064</updated>
       <workItem from="1544364680637" duration="2398000" />
       <workItem from="1544378865245" duration="1962000" />
-      <workItem from="1546439852599" duration="5973000" />
+      <workItem from="1546439852599" duration="11954000" />
     </task>
+    <task id="LOCAL-00001" summary="Add IO">
+      <created>1546471535698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546471535699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10333000" />
+    <option name="totallyTimeSpent" value="16314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="27" width="1863" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12823336" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Terminal" order="4" weight="0.22454596" />
+      <window_info anchor="right" id="Messages" order="5" weight="0.47055587" />
+      <window_info anchor="right" id="Debug" order="6" weight="0.39900935" />
+      <window_info anchor="right" id="CMake" order="7" weight="0.32911393" />
+      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.28178316" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12823336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -364,13 +300,17 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Terminal" order="4" weight="0.22454596" />
-      <window_info anchor="right" id="Messages" order="5" weight="0.6158503" />
-      <window_info anchor="right" id="Debug" order="6" weight="0.39900935" />
+      <window_info anchor="right" id="Messages" order="5" weight="0.2839846" />
+      <window_info active="true" anchor="right" id="Debug" order="6" visible="true" weight="0.39900935" />
       <window_info anchor="right" id="CMake" order="7" weight="0.32911393" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add IO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add IO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -390,6 +330,16 @@
           <line>61</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp</url>
+          <line>48</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp</url>
+          <line>116</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -398,11 +348,38 @@
         <watch expression="a" language="ObjectiveC" />
         <watch expression="b" language="ObjectiveC" />
         <watch expression="c" language="ObjectiveC" />
+        <watch expression="M" language="ObjectiveC" />
+        <watch expression="plot" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>plot[2][1]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>plot</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>X</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>K</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>M</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>c</expression-string>
         <language-id>ObjectiveC</language-id>
@@ -523,16 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/include/c++/7/bits/stl_construct.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -540,16 +507,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/input1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/7/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3491">
+          <caret line="797" selection-start-line="797" selection-end-line="797" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        <state>
           <folding>
             <element signature="e#39#58#0" expanded="true" />
+            <element signature="e#247#695#1" />
             <element signature="e#841#1031#1" />
             <element signature="e#1218#1688#0" />
             <element signature="e#1636#2108#0" />
-            <element signature="e#1979#2332#1" />
           </folding>
         </state>
       </provider>

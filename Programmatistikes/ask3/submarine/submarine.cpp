@@ -1,7 +1,3 @@
-//
-// Created by guru on 2/1/2019.
-//
-
 #include <iostream>
 #include <vector>
 
@@ -15,45 +11,37 @@ typedef std::vector<VEC> D2VEC;
 
 class Node {
     private:
-        int value;
-        int start;
-        bool end;
+        int value_;
+        int start_;
+        bool end_;
     public:
-        Node(int val) {
-            value = val;
-            start = -1;
-            end = false;
-        }
-
+        Node(int value) : value_(value), start_(-1), end_(false) {}
         ~Node() = default;
 
-        int get_value() { return value; }
-        void set_value(int val) { value = val; }
-        int get_start() { return start; }
-        void set_start(int st) { start = st; }
-        bool get_end() { return end; }
-        void set_end(bool en) { end = en; }
+        int get_value() { return value_; }
+        void set_value(int value) { value_ = value; }
+        int get_start() { return start_; }
+        void set_start(int start) { start_ = start; }
+        bool get_end() { return end_; }
+        void set_end(bool end) { end_ = end; }
 };
+
+int N, M, K, X;
 
 char buffer[betaSIZE];
 long bpos = 0L, bsize = 0L;
 
-int N, M, K, X;
-D2VEC plot(M, VEC(N, 0));
 
 int read_long();
 int read_long(FILE* fp);
 D2VEC read_stdin();
 D2VEC read_file(FILE* fp);
 
-
 int main (int argc, char** argv){
 
-//    FILE* fp = fopen(argv[1], "r");
-//    plot = read_file(fp);
-    plot = read_stdin();
-
-
+    FILE* fp = fopen(argv[1], "r");
+    D2VEC plot = read_file(fp);
+//    D2VEC plot = read_stdin();
 
     return 0;
 }
@@ -64,6 +52,7 @@ D2VEC read_stdin(){
     K = read_long();
     X = read_long();
 
+    D2VEC plot(N, VEC(M, 0));
 
     for(int i = 0; i < K; i++) {
         int st = read_long();
@@ -75,6 +64,8 @@ D2VEC read_stdin(){
         y = en % M;
         plot[x][y].set_end(true);
     }
+
+    return plot;
 }
 
 int read_long() {
@@ -121,7 +112,9 @@ D2VEC read_file(FILE* fp){
     K = read_long(fp);
     X = read_long(fp);
 
-    for(int i = 0; i < K; i++) {
+    D2VEC plot(N, VEC(M, 0));
+
+    for(int i = 0; i < K; ++i) {
         int st = read_long(fp);
         int en = read_long(fp);
         int x = st / M;
@@ -131,4 +124,6 @@ D2VEC read_file(FILE* fp){
         y = en % M;
         plot[x][y].set_end(true);
     }
+
+    return plot;
 }
