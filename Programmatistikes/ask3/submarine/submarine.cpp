@@ -5,7 +5,7 @@
 
 /*---START OF DECLARATIONS--------------------------------------------------*/
 class Node;
-typedef long long int INT;
+typedef long int INT;
 typedef std::vector<Node> D1VEC; //1Dimension Vector
 typedef std::vector<D1VEC> D2VEC; //2Dimension Vector
 typedef std::vector<D2VEC> D3VEC; //3Dimension Vector of Nodes
@@ -28,10 +28,10 @@ class Node {
     public:
         Node() :
                 value_(0),
-                end_(false),
+                valid_k_(0),
                 x_orig_(-1),
                 y_orig_(-1),
-                valid_k_(0),
+                end_(false),
                 start_(false),
                 x_dest_(-1),
                 y_dest_(-1)
@@ -94,10 +94,18 @@ int main (int argc, char** argv){
     if(globalM == 1 and globalN == 1) {
         std::cout << 1 << std::endl;
     }
-    INT value =  number_of_paths(plot);
-//    std::cout << "Final version\n";
+    try {
+        INT value = number_of_paths(plot);
+        //    std::cout << "Final version\n";
 //    print_world(plot);
-    std::cout << value << std::endl;
+        std::cout << value << std::endl;
+    }
+    catch (std::exception& e) {
+        std::cerr << "Exception catched : " << e.what() << std::endl;
+
+    }
+
+
     return 0;
 }
 
@@ -182,8 +190,8 @@ void add_right(D3VEC& plot, int i, int j) {
     for (int iter=0; iter<=maxk; ++iter){
         INT right = plot[i][j+1][iter].get_value();
         INT prev = plot[i][j][iter].get_value();
-        prev = (right % 1000000103 + prev % 1000000103) % 1000000103;
-        plot[i][j][iter].set_value(prev);
+        INT temp = (right % 1000000103 + prev % 1000000103) % 1000000103;
+        plot[i][j][iter].set_value(temp);
     }
     int myk = plot[i][j][0].get_valid_k();
     plot[i][j][0].set_valid_k(std::max(maxk, myk));
@@ -194,8 +202,8 @@ void add_below(D3VEC& plot, int i, int j){
     for (int iter=0; iter<=maxk; ++iter){
         INT below = plot[i+1][j][iter].get_value();
         INT prev = plot[i][j][iter].get_value();
-        prev = below % 1000000103 + prev % 1000000103;
-        plot[i][j][iter].set_value(prev % 1000000103);
+        INT temp = (below % 1000000103 + prev % 1000000103) % 1000000103;
+        plot[i][j][iter].set_value(temp);
     }
     int myk = plot[i][j][0].get_valid_k();
     plot[i][j][0].set_valid_k(std::max(maxk, myk));
@@ -210,8 +218,8 @@ void add_to_crossing(D3VEC& plot, int i, int j) {
     for (int iter=0; iter<=globalX; ++iter) {
         INT orig_val = plot[i][j][iter].get_value();
         INT prev_val = plot[x][y][iter+1].get_value();
-        orig_val = orig_val % 1000000103 + prev_val % 1000000103;
-        plot[x][y][iter+1].set_value(orig_val % 1000000103);
+        INT temp = (orig_val % 1000000103 + prev_val % 1000000103) % 1000000103;
+        plot[x][y][iter+1].set_value(temp);
     }
     int prevk = plot[i][j][0].get_valid_k();
     plot[x][y][0].set_valid_k(prevk+1);
