@@ -3,13 +3,13 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="Algorithms_Ntua" targetName="Poleodomia" />
-      <config projectName="Algorithms_Ntua" targetName="markella" />
+      <config projectName="Algorithms_Ntua" targetName="Submarine" />
       <config projectName="Algorithms_Ntua" targetName="Creosote" />
       <config projectName="Algorithms_Ntua" targetName="Drouk" />
       <config projectName="Algorithms_Ntua" targetName="Particles_v1" />
       <config projectName="Algorithms_Ntua" targetName="Creosote_v2" />
       <config projectName="Algorithms_Ntua" targetName="Robbery" />
-      <config projectName="Algorithms_Ntua" targetName="Submarine" />
+      <config projectName="Algorithms_Ntua" targetName="markella" />
       <config projectName="Algorithms_Ntua" targetName="Poleodomia_Faster" />
       <config projectName="Algorithms_Ntua" targetName="Credits" />
     </generated>
@@ -22,7 +22,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eed4f76a-dd47-4cff-b281-6651358d386e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,26 +48,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <element signature="e#2826#3779#0" />
-                <element signature="e#3781#4098#0" />
-                <element signature="e#4100#4414#0" />
-                <element signature="e#4416#5003#0" />
-                <element signature="e#5005#5456#0" />
-                <element signature="e#5458#5908#0" />
-                <element signature="e#5910#6457#0" />
-                <element signature="e#6459#6678#0" />
-                <element signature="e#6680#7504#0" />
-                <element signature="e#7505#7972#0" />
-                <element signature="e#7974#8823#0" />
-                <element signature="e#8824#9293#0" />
-                <element signature="e#9295#9710#0" />
+                <element signature="e#2235#2961#0" />
+                <element signature="e#2963#3916#0" />
+                <element signature="e#3918#4235#0" />
+                <element signature="e#4237#4551#0" />
+                <element signature="e#4553#5140#0" />
+                <element signature="e#5142#5593#0" />
+                <element signature="e#5595#6045#0" />
+                <element signature="e#6047#6594#0" />
+                <element signature="e#6596#6815#0" />
+                <element signature="e#6817#7641#0" />
+                <element signature="e#7642#8109#0" />
+                <element signature="e#8111#8960#0" />
+                <element signature="e#8961#9430#0" />
+                <element signature="e#9432#9847#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#821#1288#0" />
+                <element signature="e#1437#1906#0" />
               </folding>
             </state>
           </provider>
@@ -127,15 +142,15 @@
         <option value="$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output10.txt" />
         <option value="$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/input3.txt" />
         <option value="$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp" />
+        <option value="$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp" />
       </list>
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="222" />
-    <option name="y" value="27" />
-    <option name="width" value="1698" />
-    <option name="height" value="1053" />
+    <option name="x" value="1601" />
+    <option name="width" value="1666" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -169,6 +184,13 @@
               <item name="Algorithms-Ntua" type="462c0819:PsiDirectoryNode" />
               <item name="Programmatistikes" type="462c0819:PsiDirectoryNode" />
               <item name="ask3" type="462c0819:PsiDirectoryNode" />
+              <item name="robbery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms_Ntua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Ntua" type="462c0819:PsiDirectoryNode" />
+              <item name="Programmatistikes" type="462c0819:PsiDirectoryNode" />
+              <item name="ask3" type="462c0819:PsiDirectoryNode" />
               <item name="submarine" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -183,7 +205,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.profiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -203,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Submarine">
+  <component name="RunManager" selected="Application.Robbery">
     <configuration name="Credits" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Credits" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Credits">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -244,7 +266,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Submarine" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="input1.txt" WORKING_DIR="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Submarine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Submarine">
+    <configuration name="Submarine" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="input20.txt" WORKING_DIR="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Submarine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Submarine">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -282,7 +304,8 @@
       <workItem from="1546439852599" duration="36670000" />
       <workItem from="1546615118885" duration="27034000" />
       <workItem from="1546795284486" duration="545000" />
-      <workItem from="1546891983760" duration="2285000" />
+      <workItem from="1546891983760" duration="3840000" />
+      <workItem from="1547022162176" duration="1786000" />
     </task>
     <task id="LOCAL-00001" summary="Add IO">
       <created>1546471535698</created>
@@ -312,17 +335,30 @@
       <option name="project" value="LOCAL" />
       <updated>1546794777422</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Submarine fix long long to long. Works. Submission successful.">
+      <created>1546894761598</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546894761598</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initialize robbery">
+      <created>1546895166575</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546895166575</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70894000" />
+    <option name="totallyTimeSpent" value="74235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="27" width="1863" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="1977" y="27" width="1863" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12823336" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12823336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -338,7 +374,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.3296643" />
       <window_info anchor="right" id="Terminal" order="4" weight="0.35443038" />
-      <window_info active="true" anchor="right" id="Messages" order="5" visible="true" weight="0.21133737" />
+      <window_info anchor="right" id="Messages" order="5" weight="0.21133737" />
       <window_info anchor="right" id="Debug" order="6" weight="0.23885526" />
       <window_info anchor="right" id="CMake" order="7" weight="0.32911393" />
       <window_info anchor="right" id="Run" order="8" weight="0.3059989" />
@@ -414,7 +450,9 @@
     <MESSAGE value="Implement correct input for lab3" />
     <MESSAGE value="Correct output for input1 and input2.txt" />
     <MESSAGE value="Runs everything perfect locally... Grader sends SIGSEGV." />
-    <option name="LAST_COMMIT_MESSAGE" value="Runs everything perfect locally... Grader sends SIGSEGV." />
+    <MESSAGE value="Submarine fix long long to long. Works. Submission successful." />
+    <MESSAGE value="Initialize robbery" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize robbery" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -444,16 +482,6 @@
           <url>file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp</url>
           <line>182</line>
           <option name="timeStamp" value="133" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp</url>
-          <line>297</line>
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp</url>
-          <line>211</line>
-          <option name="timeStamp" value="140" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -616,9 +644,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/roberry/roberry.cpp" />
-    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programmatistikes/ask1/Poleodomia/poleodomia.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-31">
@@ -662,13 +687,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/test.txt" />
-    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/test.cpp" />
     <entry file="file://$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -811,33 +830,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#2826#3779#0" />
-            <element signature="e#3781#4098#0" />
-            <element signature="e#4100#4414#0" />
-            <element signature="e#4416#5003#0" />
-            <element signature="e#5005#5456#0" />
-            <element signature="e#5458#5908#0" />
-            <element signature="e#5910#6457#0" />
-            <element signature="e#6459#6678#0" />
-            <element signature="e#6680#7504#0" />
-            <element signature="e#7505#7972#0" />
-            <element signature="e#7974#8823#0" />
-            <element signature="e#8824#9293#0" />
-            <element signature="e#9295#9710#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/input3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#2235#2961#0" />
+            <element signature="e#2963#3916#0" />
+            <element signature="e#3918#4235#0" />
+            <element signature="e#4237#4551#0" />
+            <element signature="e#4553#5140#0" />
+            <element signature="e#5142#5593#0" />
+            <element signature="e#5595#6045#0" />
+            <element signature="e#6047#6594#0" />
+            <element signature="e#6596#6815#0" />
+            <element signature="e#6817#7641#0" />
+            <element signature="e#7642#8109#0" />
+            <element signature="e#8111#8960#0" />
+            <element signature="e#8961#9430#0" />
+            <element signature="e#9432#9847#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#821#1288#0" />
+            <element signature="e#1437#1906#0" />
+          </folding>
         </state>
       </provider>
     </entry>

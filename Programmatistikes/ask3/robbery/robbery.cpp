@@ -4,27 +4,30 @@
 #define bSIZE 1<<15
 
 /*---START OF DECLARATIONS--------------------------------------------------*/
+class Node;
+typedef long int INT;
 
+int globalN, globalM;
 
 char buffer[bSIZE];
 long bpos = 0L, bsize = 0L;
 
-typedef long int INT;
-
 int read_long();
 int read_long(FILE* fp);
-long read_stdin();
-long read_file(FILE* fp);
+int read_stdin();
+int read_file(FILE* fp);
 
 /*---END OF DECLARATIONS--------------------------------------------------*/
 
 int main (int argc, char** argv) {
 
-//    if the two lines below are uncommented script reads from file
-
-//    if line below is uncommented script reads from stdin
-
     try {
+//        if the two lines below are uncommented script reads from file
+//        FILE* fp = fopen(argv[1], "r");
+//        int k = read_file(fp);
+//
+//        if line below is uncommented script reads from stdin
+//        int k = read_stdin();
 
     }
     catch (std::exception& e) {
@@ -35,9 +38,10 @@ int main (int argc, char** argv) {
 }
 
 //read_stdin uses read_long() to read from stdin
-long read_stdin(){
+int read_stdin(){
 
-    //call read_long() as many times as needed
+    globalN = read_long();
+    globalM = read_long();
 
     return -1;
 }
@@ -50,7 +54,7 @@ int read_long() {
             bpos = 0;
             if (feof(stdin))
                 return x;
-            bsize = (long long) fread(buffer, 1, bSIZE, stdin);
+            bsize = fread(buffer, 1, bSIZE, stdin);
         }
         c = buffer[bpos++];
         if (c == '-') b = true;
@@ -61,9 +65,10 @@ int read_long() {
 }
 
 //read_file uses read_long(FILE* fp) to read from file
-long read_file(FILE* fp){
+int read_file(FILE* fp){
 
-    //call read_long() as many times as needed
+    globalN = read_long(fp);
+    globalM = read_long(fp);
 
     return -1;
 }
@@ -76,7 +81,7 @@ int read_long(FILE* fp) {
             bpos = 0;
             if (feof(fp))
                 return x;
-            bsize = (long long) fread(buffer, 1, bSIZE, fp);
+            bsize = fread(buffer, 1, bSIZE, fp);
         }
         c = buffer[bpos++];
         if (c == '-') b = true;
