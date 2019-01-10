@@ -2,15 +2,15 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Algorithms_Ntua" targetName="Creosote_v2" />
-      <config projectName="Algorithms_Ntua" targetName="Poleodomia_Faster" />
-      <config projectName="Algorithms_Ntua" targetName="Submarine" />
-      <config projectName="Algorithms_Ntua" targetName="Particles_v1" />
       <config projectName="Algorithms_Ntua" targetName="Poleodomia" />
+      <config projectName="Algorithms_Ntua" targetName="Submarine" />
       <config projectName="Algorithms_Ntua" targetName="Creosote" />
+      <config projectName="Algorithms_Ntua" targetName="Drouk" />
+      <config projectName="Algorithms_Ntua" targetName="Particles_v1" />
+      <config projectName="Algorithms_Ntua" targetName="Creosote_v2" />
       <config projectName="Algorithms_Ntua" targetName="Robbery" />
       <config projectName="Algorithms_Ntua" targetName="markella" />
-      <config projectName="Algorithms_Ntua" targetName="Drouk" />
+      <config projectName="Algorithms_Ntua" targetName="Poleodomia_Faster" />
       <config projectName="Algorithms_Ntua" targetName="Credits" />
     </generated>
   </component>
@@ -21,92 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eed4f76a-dd47-4cff-b281-6651358d386e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input26.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input27.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input28.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input29.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input30.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Input/input9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output26.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output27.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output28.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output29.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output30.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/roberry/Output/output9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Algorithms_Ntua.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithms_Ntua.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Credits.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Credits.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/Programmatistikes/ask2/Creosote/creosote_v2.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/Programmatistikes/ask2/Creosote/creosote_v2.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Creosote_v2.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Drouk.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Drouk.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Particles_v1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Particles_v1.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poleodomia.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poleodomia.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poleodomia_Faster.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poleodomia_Faster.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/markella.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/markella.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/markella.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/markella.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Creosote_v2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Creosote_v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,30 +31,59 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            <state relative-caret-position="225">
+              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding>
-                <element signature="e#39#58#0" expanded="true" />
-                <element signature="e#841#1031#1" />
-                <element signature="e#1218#1688#0" />
-                <element signature="e#1636#2108#0" />
-                <element signature="e#1979#2332#1" />
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#2235#2961#0" />
+                <element signature="e#2963#3916#0" />
+                <element signature="e#3918#4235#0" />
+                <element signature="e#4237#4551#0" />
+                <element signature="e#4553#5140#0" />
+                <element signature="e#5142#5593#0" />
+                <element signature="e#5595#6045#0" />
+                <element signature="e#6047#6594#0" />
+                <element signature="e#6596#6815#0" />
+                <element signature="e#6817#7641#0" />
+                <element signature="e#7642#8109#0" />
+                <element signature="e#8111#8960#0" />
+                <element signature="e#8961#9430#0" />
+                <element signature="e#9432#9847#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/include/c++/7/bits/stl_construct.h">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+            <state relative-caret-position="285">
+              <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#821#1288#0" />
+                <element signature="e#1437#1906#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,14 +93,39 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>pointer</find>
+      <find>x_point_</find>
+      <find>y_point_</find>
+      <find>count</find>
+      <find>i</find>
+      <find>j</find>
+      <find>betaSIZE</find>
+      <find>X</find>
+      <find>Below</find>
+      <find>valid_k</find>
+      <find>add_to_crossing</find>
+      <find>set_start(true)</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>niknik</replace>
+      <replace>y_dest_</replace>
+      <replace>plot</replace>
+      <replace>pos</replace>
+      <replace>bSIZE</replace>
+      <replace>globalX</replace>
+      <replace>Below_start</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -164,16 +134,23 @@
         <option value="$PROJECT_DIR$/Programmatistikes/ask2/Creosote/algos2ex1.cpp" />
         <option value="$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Programmatistikes/ask3/submarine/test.txt" />
+        <option value="$PROJECT_DIR$/Programmatistikes/ask3/submarine/test.cpp" />
+        <option value="$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/testout.txt" />
+        <option value="$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/test.txt" />
+        <option value="$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/test2.txt" />
+        <option value="$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output10.txt" />
+        <option value="$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/input3.txt" />
         <option value="$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp" />
+        <option value="$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp" />
       </list>
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="249" />
-    <option name="y" value="27" />
-    <option name="width" value="1389" />
-    <option name="height" value="798" />
+    <option name="x" value="1601" />
+    <option name="width" value="1666" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -195,19 +172,6 @@
               <item name="Algorithms_Ntua" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Ntua" type="462c0819:PsiDirectoryNode" />
               <item name="Programmatistikes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms_Ntua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Ntua" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmatistikes" type="462c0819:PsiDirectoryNode" />
-              <item name="ask2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms_Ntua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Ntua" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmatistikes" type="462c0819:PsiDirectoryNode" />
-              <item name="ask2" type="462c0819:PsiDirectoryNode" />
-              <item name="Creosote" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms_Ntua" type="b2602c69:ProjectViewProjectNode" />
@@ -240,7 +204,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.profiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -260,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Submarine">
+  <component name="RunManager" selected="Application.Robbery">
     <configuration name="Credits" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Credits" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Credits">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -271,7 +236,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Creosote_v2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Creosote_v2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Creosote_v2">
+    <configuration name="Creosote_v2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="input1.txt" WORKING_DIR="file://$PROJECT_DIR$/Programmatistikes/ask2/Creosote/Input" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Creosote_v2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Creosote_v2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -301,7 +266,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Submarine" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="input1.txt" WORKING_DIR="file://$PROJECT_DIR$/Programmatistikes/ask3/robbery/Input" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Submarine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Submarine">
+    <configuration name="Submarine" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="input20.txt" WORKING_DIR="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_Ntua" TARGET_NAME="Submarine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_Ntua" RUN_TARGET_NAME="Submarine">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -336,41 +301,158 @@
       <updated>1544364676064</updated>
       <workItem from="1544364680637" duration="2398000" />
       <workItem from="1544378865245" duration="1962000" />
-      <workItem from="1546439852599" duration="5973000" />
+      <workItem from="1546439852599" duration="36670000" />
+      <workItem from="1546615118885" duration="27034000" />
+      <workItem from="1546795284486" duration="545000" />
+      <workItem from="1546891983760" duration="3840000" />
+      <workItem from="1547022162176" duration="1786000" />
     </task>
+    <task id="LOCAL-00001" summary="Add IO">
+      <created>1546471535698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546471535699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implement correct input for lab3">
+      <created>1546514133702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546514133702</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Correct output for input1 and input2.txt">
+      <created>1546615390683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546615390683</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Runs everything perfect locally... Grader sends SIGSEGV.">
+      <created>1546794777422</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546794777422</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Submarine fix long long to long. Works. Submission successful.">
+      <created>1546894761598</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546894761598</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initialize robbery">
+      <created>1546895166575</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546895166575</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10333000" />
+    <option name="totallyTimeSpent" value="74235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="27" width="1863" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="1977" y="27" width="1863" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12823336" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12823336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17993458" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Database Changes" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293348" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3296643" />
+      <window_info anchor="right" id="Terminal" order="4" weight="0.35443038" />
+      <window_info anchor="right" id="Messages" order="5" weight="0.21133737" />
+      <window_info anchor="right" id="Debug" order="6" weight="0.23885526" />
+      <window_info anchor="right" id="CMake" order="7" weight="0.32911393" />
+      <window_info anchor="right" id="Run" order="8" weight="0.3059989" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12823336" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293348" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Terminal" order="4" weight="0.22454596" />
-      <window_info anchor="right" id="Messages" order="5" weight="0.6158503" />
-      <window_info anchor="right" id="Debug" order="6" weight="0.39900935" />
+      <window_info anchor="right" id="Terminal" order="4" weight="0.34837645" />
+      <window_info anchor="right" id="Messages" order="5" weight="0.16565768" />
+      <window_info anchor="right" id="Debug" order="6" weight="0.25921848" />
       <window_info anchor="right" id="CMake" order="7" weight="0.32911393" />
-    </layout>
+      <window_info anchor="right" id="Run" order="8" visible="true" weight="0.36543754" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add IO" />
+    <MESSAGE value="Implement correct input for lab3" />
+    <MESSAGE value="Correct output for input1 and input2.txt" />
+    <MESSAGE value="Runs everything perfect locally... Grader sends SIGSEGV." />
+    <MESSAGE value="Submarine fix long long to long. Works. Submission successful." />
+    <MESSAGE value="Initialize robbery" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize robbery" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -390,36 +472,115 @@
           <line>61</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp</url>
+          <line>48</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <condition expression="i==0 and j==0" language="ObjectiveC" />
+          <url>file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp</url>
+          <line>182</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="CidrExceptionBreakpoint">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="N" language="ObjectiveC" />
-        <watch expression="a" language="ObjectiveC" />
-        <watch expression="b" language="ObjectiveC" />
-        <watch expression="c" language="ObjectiveC" />
+        <watch expression="plot[i][j]" language="ObjectiveC" />
+        <watch expression="globalK" language="ObjectiveC" />
+        <watch expression="globalM" language="ObjectiveC" />
+        <watch expression="globalN" language="ObjectiveC" />
+        <watch expression="globalX" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i==0 and j==0</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==0 and j==1</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==1</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==1 and j==0</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>if(i==1 and j==0)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>if(i == 1)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="watch">
       <expression>
-        <expression-string>c</expression-string>
+        <expression-string>globalX</expression-string>
         <language-id>ObjectiveC</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>b</expression-string>
+        <expression-string>globalN</expression-string>
         <language-id>ObjectiveC</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>a</expression-string>
+        <expression-string>globalM</expression-string>
         <language-id>ObjectiveC</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>N</expression-string>
+        <expression-string>globalK</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>plot[0][4][0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>plot[4][4][0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>plot[3][4][0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>plot[2][4][0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>plot[1][4][0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>plot[i][j]</expression-string>
         <language-id>ObjectiveC</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -482,12 +643,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/roberry/roberry.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/roberry/roberry.cpp" />
     <entry file="file://$PROJECT_DIR$/Programmatistikes/ask1/Poleodomia/poleodomia.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-31">
@@ -523,16 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/include/c++/7/bits/stl_construct.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -540,16 +686,189 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/test.txt" />
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/test.cpp" />
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask2/Creosote/creosote_v2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/input2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/testout.txt" />
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/test.txt" />
+    <entry file="file:///usr/include/c++/7/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="798" selection-start-line="798" selection-end-line="798" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/testout1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/test1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/input18.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/testout2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output7.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output8.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output11.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output12.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output10.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output9.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Output/output20.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/input20.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/input1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/Input/input3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/submarine/submarine.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        <state relative-caret-position="225">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
           <folding>
-            <element signature="e#39#58#0" expanded="true" />
-            <element signature="e#841#1031#1" />
-            <element signature="e#1218#1688#0" />
-            <element signature="e#1636#2108#0" />
-            <element signature="e#1979#2332#1" />
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#2235#2961#0" />
+            <element signature="e#2963#3916#0" />
+            <element signature="e#3918#4235#0" />
+            <element signature="e#4237#4551#0" />
+            <element signature="e#4553#5140#0" />
+            <element signature="e#5142#5593#0" />
+            <element signature="e#5595#6045#0" />
+            <element signature="e#6047#6594#0" />
+            <element signature="e#6596#6815#0" />
+            <element signature="e#6817#7641#0" />
+            <element signature="e#7642#8109#0" />
+            <element signature="e#8111#8960#0" />
+            <element signature="e#8961#9430#0" />
+            <element signature="e#9432#9847#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmatistikes/ask3/robbery/robbery.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#821#1288#0" />
+            <element signature="e#1437#1906#0" />
           </folding>
         </state>
       </provider>
