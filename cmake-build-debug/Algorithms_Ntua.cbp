@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Robbery">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Robbery" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Robbery" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Robbery"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Robbery"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Robbery/fast">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Robbery" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Robbery" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,15 +67,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Robbery/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Robbery/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Submarine">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Submarine" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Submarine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -90,15 +90,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Submarine"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Submarine"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Submarine/fast">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Submarine" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Submarine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -113,15 +113,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Submarine/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Submarine/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Credits">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Credits" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Credits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -136,15 +136,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Credits"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Credits"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Credits/fast">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Credits" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Credits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -159,15 +159,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Credits/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Credits/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="markella">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/markella" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/markella" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -182,15 +182,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 markella"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 markella"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="markella/fast">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/markella" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/markella" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -205,15 +205,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 markella/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 markella/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Poleodomia_Faster">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Poleodomia_Faster" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Poleodomia_Faster" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -228,15 +228,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Poleodomia_Faster"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Poleodomia_Faster"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Poleodomia_Faster/fast">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Poleodomia_Faster" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Poleodomia_Faster" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -251,25 +251,25 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Poleodomia_Faster/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Poleodomia_Faster/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Poleodomia">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Poleodomia" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Poleodomia" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -284,15 +284,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Poleodomia"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Poleodomia"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Poleodomia/fast">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Poleodomia" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Poleodomia" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -307,15 +307,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Poleodomia/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Poleodomia/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Particles_v1">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Particles_v1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Particles_v1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -330,15 +330,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Particles_v1"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Particles_v1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Particles_v1/fast">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Particles_v1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Particles_v1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -353,15 +353,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Particles_v1/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Particles_v1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Creosote_v2">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Creosote_v2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Creosote_v2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -376,15 +376,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Creosote_v2"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Creosote_v2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Creosote_v2/fast">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Creosote_v2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Creosote_v2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -399,15 +399,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Creosote_v2/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Creosote_v2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Drouk">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Drouk" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Drouk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -422,15 +422,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drouk"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drouk"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Drouk/fast">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Drouk" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Drouk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -445,15 +445,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drouk/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drouk/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Creosote">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Creosote" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Creosote" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -468,15 +468,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Creosote"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Creosote"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Creosote/fast">
-				<Option output="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Creosote" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug"/>
+				<Option output="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Creosote" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -491,44 +491,44 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Creosote/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 Creosote/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/guru/Storage/Documents/ECE/Soft\ Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask1/Particles/droukalis.cpp">
+		<Unit filename="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask1/Particles/droukalis.cpp">
 			<Option target="Drouk"/>
 		</Unit>
-		<Unit filename="/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask1/Particles/particles_v1.cpp">
+		<Unit filename="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask1/Particles/particles_v1.cpp">
 			<Option target="Particles_v1"/>
 		</Unit>
-		<Unit filename="/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia.cpp">
+		<Unit filename="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia.cpp">
 			<Option target="Poleodomia"/>
 		</Unit>
-		<Unit filename="/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp">
+		<Unit filename="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp">
 			<Option target="Poleodomia_Faster"/>
 		</Unit>
-		<Unit filename="/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask2/Credits/credits.cpp">
+		<Unit filename="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask2/Credits/credits.cpp">
 			<Option target="Credits"/>
 		</Unit>
-		<Unit filename="/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask2/Creosote/algos2ex1.cpp">
+		<Unit filename="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask2/Creosote/algos2ex1.cpp">
 			<Option target="markella"/>
 		</Unit>
-		<Unit filename="/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask2/Creosote/creosote.cpp">
+		<Unit filename="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask2/Creosote/creosote.cpp">
 			<Option target="Creosote"/>
 		</Unit>
-		<Unit filename="/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask2/Creosote/creosote_v2.cpp">
+		<Unit filename="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask2/Creosote/creosote_v2.cpp">
 			<Option target="Creosote_v2"/>
 		</Unit>
-		<Unit filename="/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask3/robbery/robbery.cpp">
+		<Unit filename="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask3/robbery/robbery.cpp">
 			<Option target="Robbery"/>
 		</Unit>
-		<Unit filename="/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask3/submarine/submarine.cpp">
+		<Unit filename="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask3/submarine/submarine.cpp">
 			<Option target="Submarine"/>
 		</Unit>
-		<Unit filename="/home/guru/CLionProjects/Algorithms-Ntua/CMakeLists.txt">
+		<Unit filename="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

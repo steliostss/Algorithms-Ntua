@@ -1,4 +1,4 @@
-# Install script for directory: /home/guru/CLionProjects/Algorithms-Ntua
+# Install script for directory: /media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

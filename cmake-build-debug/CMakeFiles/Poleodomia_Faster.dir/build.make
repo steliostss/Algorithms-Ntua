@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/57/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /opt/clion-2018.3.3/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/57/bin/cmake/linux/bin/cmake -E remove -f
+RM = /opt/clion-2018.3.3/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guru/CLionProjects/Algorithms-Ntua
+CMAKE_SOURCE_DIR = "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug
+CMAKE_BINARY_DIR = "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Poleodomia_Faster.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/Poleodomia_Faster.dir/flags.make
 
 CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.o: CMakeFiles/Poleodomia_Faster.dir/flags.make
 CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.o: ../Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.o -c /home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.o -c "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp"
 
 CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp > CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp" > CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.i
 
 CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp -o CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp" -o CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.s
 
 # Object files for target Poleodomia_Faster
 Poleodomia_Faster_OBJECTS = \
@@ -80,7 +80,7 @@ Poleodomia_Faster_EXTERNAL_OBJECTS =
 Poleodomia_Faster: CMakeFiles/Poleodomia_Faster.dir/Programmatistikes/ask1/Poleodomia/poleodomia_faster.cpp.o
 Poleodomia_Faster: CMakeFiles/Poleodomia_Faster.dir/build.make
 Poleodomia_Faster: CMakeFiles/Poleodomia_Faster.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Poleodomia_Faster"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Poleodomia_Faster"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Poleodomia_Faster.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +93,6 @@ CMakeFiles/Poleodomia_Faster.dir/clean:
 .PHONY : CMakeFiles/Poleodomia_Faster.dir/clean
 
 CMakeFiles/Poleodomia_Faster.dir/depend:
-	cd /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guru/CLionProjects/Algorithms-Ntua /home/guru/CLionProjects/Algorithms-Ntua /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Poleodomia_Faster.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua" "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua" "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug" "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug" "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Poleodomia_Faster.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Poleodomia_Faster.dir/depend
 

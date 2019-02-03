@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/guru/CLionProjects/Algorithms-Ntua/Programmatistikes/ask2/Credits/credits.cpp" "/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Credits.dir/Programmatistikes/ask2/Credits/credits.cpp.o"
+  "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/Programmatistikes/ask2/Credits/credits.cpp" "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Credits.dir/Programmatistikes/ask2/Credits/credits.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

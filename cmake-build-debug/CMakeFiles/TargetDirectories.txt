@@ -1,12 +1,12 @@
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Robbery.dir
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Submarine.dir
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Credits.dir
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/markella.dir
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Poleodomia_Faster.dir
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Poleodomia.dir
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Particles_v1.dir
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Creosote_v2.dir
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Drouk.dir
-/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Creosote.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Robbery.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Submarine.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Credits.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/markella.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Poleodomia_Faster.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Poleodomia.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Particles_v1.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Creosote_v2.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Drouk.dir
+/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles/Creosote.dir

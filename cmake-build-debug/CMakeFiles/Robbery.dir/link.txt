@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Robbery.dir/Programmatistikes/ask3/robbery/robbery.cpp.o  -o Robbery 

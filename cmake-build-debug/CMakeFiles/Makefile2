@@ -50,19 +50,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/57/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /opt/clion-2018.3.3/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/57/bin/cmake/linux/bin/cmake -E remove -f
+RM = /opt/clion-2018.3.3/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guru/CLionProjects/Algorithms-Ntua
+CMAKE_SOURCE_DIR = "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug
+CMAKE_BINARY_DIR = "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug"
 
 #=============================================================================
 # Target rules for target CMakeFiles/Robbery.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug
 CMakeFiles/Robbery.dir/all:
 	$(MAKE) -f CMakeFiles/Robbery.dir/build.make CMakeFiles/Robbery.dir/depend
 	$(MAKE) -f CMakeFiles/Robbery.dir/build.make CMakeFiles/Robbery.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target Robbery"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=15,16 "Built target Robbery"
 .PHONY : CMakeFiles/Robbery.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/Robbery.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Robbery.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Robbery.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Robbery.dir/rule
 
 # Convenience name for target.
@@ -108,7 +108,7 @@ clean: CMakeFiles/Robbery.dir/clean
 CMakeFiles/Submarine.dir/all:
 	$(MAKE) -f CMakeFiles/Submarine.dir/build.make CMakeFiles/Submarine.dir/depend
 	$(MAKE) -f CMakeFiles/Submarine.dir/build.make CMakeFiles/Submarine.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target Submarine"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=17,18 "Built target Submarine"
 .PHONY : CMakeFiles/Submarine.dir/all
 
 # Include target in all.
@@ -118,9 +118,9 @@ all: CMakeFiles/Submarine.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Submarine.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Submarine.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Submarine.dir/rule
 
 # Convenience name for target.
@@ -145,7 +145,7 @@ clean: CMakeFiles/Submarine.dir/clean
 CMakeFiles/Credits.dir/all:
 	$(MAKE) -f CMakeFiles/Credits.dir/build.make CMakeFiles/Credits.dir/depend
 	$(MAKE) -f CMakeFiles/Credits.dir/build.make CMakeFiles/Credits.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Credits"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target Credits"
 .PHONY : CMakeFiles/Credits.dir/all
 
 # Include target in all.
@@ -155,9 +155,9 @@ all: CMakeFiles/Credits.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Credits.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Credits.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Credits.dir/rule
 
 # Convenience name for target.
@@ -182,7 +182,7 @@ clean: CMakeFiles/Credits.dir/clean
 CMakeFiles/markella.dir/all:
 	$(MAKE) -f CMakeFiles/markella.dir/build.make CMakeFiles/markella.dir/depend
 	$(MAKE) -f CMakeFiles/markella.dir/build.make CMakeFiles/markella.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target markella"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=19,20 "Built target markella"
 .PHONY : CMakeFiles/markella.dir/all
 
 # Include target in all.
@@ -192,9 +192,9 @@ all: CMakeFiles/markella.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/markella.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/markella.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/markella.dir/rule
 
 # Convenience name for target.
@@ -219,7 +219,7 @@ clean: CMakeFiles/markella.dir/clean
 CMakeFiles/Poleodomia_Faster.dir/all:
 	$(MAKE) -f CMakeFiles/Poleodomia_Faster.dir/build.make CMakeFiles/Poleodomia_Faster.dir/depend
 	$(MAKE) -f CMakeFiles/Poleodomia_Faster.dir/build.make CMakeFiles/Poleodomia_Faster.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target Poleodomia_Faster"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=13,14 "Built target Poleodomia_Faster"
 .PHONY : CMakeFiles/Poleodomia_Faster.dir/all
 
 # Include target in all.
@@ -229,9 +229,9 @@ all: CMakeFiles/Poleodomia_Faster.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Poleodomia_Faster.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Poleodomia_Faster.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Poleodomia_Faster.dir/rule
 
 # Convenience name for target.
@@ -256,7 +256,7 @@ clean: CMakeFiles/Poleodomia_Faster.dir/clean
 CMakeFiles/Poleodomia.dir/all:
 	$(MAKE) -f CMakeFiles/Poleodomia.dir/build.make CMakeFiles/Poleodomia.dir/depend
 	$(MAKE) -f CMakeFiles/Poleodomia.dir/build.make CMakeFiles/Poleodomia.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target Poleodomia"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=11,12 "Built target Poleodomia"
 .PHONY : CMakeFiles/Poleodomia.dir/all
 
 # Include target in all.
@@ -266,9 +266,9 @@ all: CMakeFiles/Poleodomia.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Poleodomia.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Poleodomia.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Poleodomia.dir/rule
 
 # Convenience name for target.
@@ -293,7 +293,7 @@ clean: CMakeFiles/Poleodomia.dir/clean
 CMakeFiles/Particles_v1.dir/all:
 	$(MAKE) -f CMakeFiles/Particles_v1.dir/build.make CMakeFiles/Particles_v1.dir/depend
 	$(MAKE) -f CMakeFiles/Particles_v1.dir/build.make CMakeFiles/Particles_v1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target Particles_v1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=9,10 "Built target Particles_v1"
 .PHONY : CMakeFiles/Particles_v1.dir/all
 
 # Include target in all.
@@ -303,9 +303,9 @@ all: CMakeFiles/Particles_v1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Particles_v1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Particles_v1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Particles_v1.dir/rule
 
 # Convenience name for target.
@@ -330,7 +330,7 @@ clean: CMakeFiles/Particles_v1.dir/clean
 CMakeFiles/Creosote_v2.dir/all:
 	$(MAKE) -f CMakeFiles/Creosote_v2.dir/build.make CMakeFiles/Creosote_v2.dir/depend
 	$(MAKE) -f CMakeFiles/Creosote_v2.dir/build.make CMakeFiles/Creosote_v2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target Creosote_v2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=5,6 "Built target Creosote_v2"
 .PHONY : CMakeFiles/Creosote_v2.dir/all
 
 # Include target in all.
@@ -340,9 +340,9 @@ all: CMakeFiles/Creosote_v2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Creosote_v2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Creosote_v2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Creosote_v2.dir/rule
 
 # Convenience name for target.
@@ -367,7 +367,7 @@ clean: CMakeFiles/Creosote_v2.dir/clean
 CMakeFiles/Drouk.dir/all:
 	$(MAKE) -f CMakeFiles/Drouk.dir/build.make CMakeFiles/Drouk.dir/depend
 	$(MAKE) -f CMakeFiles/Drouk.dir/build.make CMakeFiles/Drouk.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target Drouk"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=7,8 "Built target Drouk"
 .PHONY : CMakeFiles/Drouk.dir/all
 
 # Include target in all.
@@ -377,9 +377,9 @@ all: CMakeFiles/Drouk.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Drouk.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Drouk.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Drouk.dir/rule
 
 # Convenience name for target.
@@ -404,7 +404,7 @@ clean: CMakeFiles/Drouk.dir/clean
 CMakeFiles/Creosote.dir/all:
 	$(MAKE) -f CMakeFiles/Creosote.dir/build.make CMakeFiles/Creosote.dir/depend
 	$(MAKE) -f CMakeFiles/Creosote.dir/build.make CMakeFiles/Creosote.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target Creosote"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" --progress-num=3,4 "Built target Creosote"
 .PHONY : CMakeFiles/Creosote.dir/all
 
 # Include target in all.
@@ -414,9 +414,9 @@ all: CMakeFiles/Creosote.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Creosote.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Creosote.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru/CLionProjects/Algorithms-Ntua/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/guru/Storage/Documents/ECE/Soft Flow/Algorithms/2018-2019/Git/Algorithms-Ntua/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Creosote.dir/rule
 
 # Convenience name for target.
